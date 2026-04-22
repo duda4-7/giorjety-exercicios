@@ -1,0 +1,57 @@
+body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: 2000px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 600px;
+        }
+
+        td {
+            border: 1px solid black;
+        }
+        td.tamanho{
+            width: 40px;
+        }
+        td.tamdesc{
+            width: 140px;
+            text-align: left;
+        }
+        td.taminfo{
+            width: 100px;
+        }
+        td.valor{
+            width: 250px;
+        }
+
+        table.tabela2 {
+            width: 40%;
+            height: 250px;
+        }
+        tfoot{
+            text-align: center;
+        }
+        .cod2{
+            width: 93%;
+            margin: auto;
+            
+               }
+        .refcod{
+            height: 130px;
+        }
+        .cod3{
+           width: 10px;
+           text-align: center;
+           padding-right: 9px;
+        }
+        .cod4{
+            text-align:left;
+            padding-left: 6px;
+        }
+        .titulo{
+            padding-left: 100px;
+        }
