@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+img{
+    width: 100px;
+}
+header{
+    background-color: rgba(22, 67, 52, 0.823);
+    display: flex;
+}
+h1{
+    color: rgb(255, 237, 236);
+    margin-top: 32px;
+}
+nav{
+    background-color: rgb(255, 237, 236);
+    text-align: center;
+    padding-right: 78%;
+}
+nav a{ 
+    color: brown;}
+aside p{
+    background-color: brown;
+    color: rgb(255, 237, 236);
+    margin-right: 0;
+    margin-left: 80%;
+    border-radius: 5px;
+    display: block;
+    float: right;
+    width: 200px;
+}
+article h2{
+    padding-left: 100px;
+    color: rgb(255, 237, 236);
+    background-color: rgba(22, 67, 52, 0.823);
+    width: 92,5%;
+    margin-top: 18px;
+}
+img{
+    float: left;
+}
+.tamanhoimg{
+    width: 100px;
+    height: 100px;
+}
+aside{
+    position: absolute;
+    padding-left: 85%;
+    width: 200px;
+}
+footer{
+    background-color: rgba(22, 67, 52, 0.823);
+    width: 100%;
+    display: block;
+    clear: both;
+}
+footer P{
+    color: rgb(255, 246, 245);
+    padding-left: 110px;
+    margin-bottom: 0;
+}
